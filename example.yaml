@@ -1,0 +1,7 @@
+- 
+ name: GroupName
+ prompts: 
+  - What is {name} doing?
+  - Where is {name}?
+ responses:
+  - "{name} is in {place}"
